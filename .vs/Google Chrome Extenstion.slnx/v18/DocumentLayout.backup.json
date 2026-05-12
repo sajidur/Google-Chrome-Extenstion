@@ -1,0 +1,233 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sajidur.ASABD\\source\\repos\\Google Chrome Extenstion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE18272-129D-4083-91F5-D2FD76D5B884}|Google Chrome Extenstion\\Google Chrome Extenstion.csproj|c:\\users\\sajidur.asabd\\source\\repos\\google chrome extenstion\\google chrome extenstion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5EE18272-129D-4083-91F5-D2FD76D5B884}|Google Chrome Extenstion\\Google Chrome Extenstion.csproj|solutionrelative:google chrome extenstion\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE18272-129D-4083-91F5-D2FD76D5B884}|Google Chrome Extenstion\\Google Chrome Extenstion.csproj|c:\\users\\sajidur.asabd\\source\\repos\\google chrome extenstion\\google chrome extenstion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE18272-129D-4083-91F5-D2FD76D5B884}|Google Chrome Extenstion\\Google Chrome Extenstion.csproj|solutionrelative:google chrome extenstion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE18272-129D-4083-91F5-D2FD76D5B884}|Google Chrome Extenstion\\Google Chrome Extenstion.csproj|c:\\users\\sajidur.asabd\\source\\repos\\google chrome extenstion\\google chrome extenstion\\google chrome extenstion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5EE18272-129D-4083-91F5-D2FD76D5B884}|Google Chrome Extenstion\\Google Chrome Extenstion.csproj|solutionrelative:google chrome extenstion\\google chrome extenstion.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE18272-129D-4083-91F5-D2FD76D5B884}|Google Chrome Extenstion\\Google Chrome Extenstion.csproj|c:\\users\\sajidur.asabd\\source\\repos\\google chrome extenstion\\google chrome extenstion\\controllers\\downloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE18272-129D-4083-91F5-D2FD76D5B884}|Google Chrome Extenstion\\Google Chrome Extenstion.csproj|solutionrelative:google chrome extenstion\\controllers\\downloadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE18272-129D-4083-91F5-D2FD76D5B884}|Google Chrome Extenstion\\Google Chrome Extenstion.csproj|c:\\users\\sajidur.asabd\\source\\repos\\google chrome extenstion\\google chrome extenstion\\controllers\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE18272-129D-4083-91F5-D2FD76D5B884}|Google Chrome Extenstion\\Google Chrome Extenstion.csproj|solutionrelative:google chrome extenstion\\controllers\\fileitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5EE18272-129D-4083-91F5-D2FD76D5B884}|Google Chrome Extenstion\\Google Chrome Extenstion.csproj|c:\\users\\sajidur.asabd\\source\\repos\\google chrome extenstion\\google chrome extenstion\\controllers\\downloadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5EE18272-129D-4083-91F5-D2FD76D5B884}|Google Chrome Extenstion\\Google Chrome Extenstion.csproj|solutionrelative:google chrome extenstion\\controllers\\downloadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 28,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:154:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:142:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:144:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:145:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:146:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:147:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:148:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:149:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:150:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:151:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:152:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:153:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:143:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\sajidur.ASABD\\source\\repos\\Google Chrome Extenstion\\Google Chrome Extenstion\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Google Chrome Extenstion\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\sajidur.ASABD\\source\\repos\\Google Chrome Extenstion\\Google Chrome Extenstion\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Google Chrome Extenstion\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-12T04:34:55.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Google Chrome Extenstion",
+              "DocumentMoniker": "C:\\Users\\sajidur.ASABD\\source\\repos\\Google Chrome Extenstion\\Google Chrome Extenstion\\Google Chrome Extenstion.csproj",
+              "RelativeDocumentMoniker": "Google Chrome Extenstion\\Google Chrome Extenstion.csproj",
+              "ToolTip": "C:\\Users\\sajidur.ASABD\\source\\repos\\Google Chrome Extenstion\\Google Chrome Extenstion\\Google Chrome Extenstion.csproj",
+              "RelativeToolTip": "Google Chrome Extenstion\\Google Chrome Extenstion.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-12T04:33:52.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FileItem.cs",
+              "DocumentMoniker": "C:\\Users\\sajidur.ASABD\\source\\repos\\Google Chrome Extenstion\\Google Chrome Extenstion\\Controllers\\FileItem.cs",
+              "RelativeDocumentMoniker": "Google Chrome Extenstion\\Controllers\\FileItem.cs",
+              "ToolTip": "C:\\Users\\sajidur.ASABD\\source\\repos\\Google Chrome Extenstion\\Google Chrome Extenstion\\Controllers\\FileItem.cs",
+              "RelativeToolTip": "Google Chrome Extenstion\\Controllers\\FileItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:24:05.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DownloadRequest.cs",
+              "DocumentMoniker": "C:\\Users\\sajidur.ASABD\\source\\repos\\Google Chrome Extenstion\\Google Chrome Extenstion\\Controllers\\DownloadRequest.cs",
+              "RelativeDocumentMoniker": "Google Chrome Extenstion\\Controllers\\DownloadRequest.cs",
+              "ToolTip": "C:\\Users\\sajidur.ASABD\\source\\repos\\Google Chrome Extenstion\\Google Chrome Extenstion\\Controllers\\DownloadRequest.cs",
+              "RelativeToolTip": "Google Chrome Extenstion\\Controllers\\DownloadRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:22:50.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DownloadController.cs",
+              "DocumentMoniker": "C:\\Users\\sajidur.ASABD\\source\\repos\\Google Chrome Extenstion\\Google Chrome Extenstion\\Controllers\\DownloadController.cs",
+              "RelativeDocumentMoniker": "Google Chrome Extenstion\\Controllers\\DownloadController.cs",
+              "ToolTip": "C:\\Users\\sajidur.ASABD\\source\\repos\\Google Chrome Extenstion\\Google Chrome Extenstion\\Controllers\\DownloadController.cs",
+              "RelativeToolTip": "Google Chrome Extenstion\\Controllers\\DownloadController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAABUAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:21:48.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sajidur.ASABD\\source\\repos\\Google Chrome Extenstion\\Google Chrome Extenstion\\Program.cs",
+              "RelativeDocumentMoniker": "Google Chrome Extenstion\\Program.cs",
+              "ToolTip": "C:\\Users\\sajidur.ASABD\\source\\repos\\Google Chrome Extenstion\\Google Chrome Extenstion\\Program.cs",
+              "RelativeToolTip": "Google Chrome Extenstion\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-12T04:15:27.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+
+  "name": "Gmail Attachment Downloader",
+
+  "version": "1.0",
+
+  "permissions": [
+    "activeTab",
+    "tabs",
+    "scripting",
+    "downloads"
+  ],
+
+  "host_permissions": [
+    "https://mail.google.com/*",
+    "http://localhost:5000/*"
+  ],
+
+  "action": {
+    "default_popup": "popup.html"
+  },
+
+  "background": {
+    "service_worker": "background.js"
+  }
+}

@@ -1,0 +1,34 @@
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\bin\Debug\net10.0\appsettings.json
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\bin\Debug\net10.0\Google Chrome Extenstion.staticwebassets.endpoints.json
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\bin\Debug\net10.0\Google Chrome Extenstion.exe
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\bin\Debug\net10.0\Google Chrome Extenstion.deps.json
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\bin\Debug\net10.0\Google Chrome Extenstion.runtimeconfig.json
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\bin\Debug\net10.0\Google Chrome Extenstion.dll
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\bin\Debug\net10.0\Google Chrome Extenstion.pdb
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\Google Chrome Extenstion.csproj.AssemblyReference.cache
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\Google Chrome Extenstion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\Google Chrome Extenstion.AssemblyInfoInputs.cache
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\Google Chrome Extenstion.AssemblyInfo.cs
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\Google Chrome Extenstion.csproj.CoreCompileInputs.cache
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\Google Chrome Extenstion.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\Google Chrome Extenstion.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\scopedcss\bundle\Google Chrome Extenstion.styles.css
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\Google C.D0B335E8.Up2Date
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\Google Chrome Extenstion.dll
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\refint\Google Chrome Extenstion.dll
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\Google Chrome Extenstion.pdb
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\Google Chrome Extenstion.genruntimeconfig.cache
+C:\Users\sajidur.ASABD\source\repos\Google Chrome Extenstion\Google Chrome Extenstion\obj\Debug\net10.0\ref\Google Chrome Extenstion.dll

@@ -1,0 +1,6 @@
+@Google_Chrome_Extenstion_HostAddress = http://localhost:5159
+
+GET {{Google_Chrome_Extenstion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

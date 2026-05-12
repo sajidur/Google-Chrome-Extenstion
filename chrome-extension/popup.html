@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<body>
+
+<h3>Download Gmail Attachments</h3>
+
+<label for="label">Gmail label / keyword:</label><br>
+<input id="label"
+       placeholder="front-end-dev"
+       style="width:250px; margin-bottom:12px;" />
+
+<label for="folder">Save to folder under Downloads:</label><br>
+<input id="folder"
+       placeholder="gmail-attachments"
+       style="width:250px;" />
+
+<p style="font-size:0.9em;color:#555;margin:8px 0 16px;">Leave empty to save to the default Downloads folder.</p>
+
+<button id="downloadBtn">
+    Search emails and download attachments
+</button>
+
+<p id="status" style="font-size:0.95em;color:#333;margin-top:14px;"></p>
+
+<script src="popup.js"></script>
+
+</body>
+</html>
