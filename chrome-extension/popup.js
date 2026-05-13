@@ -8,14 +8,15 @@ function setStatus(message) {
 document.getElementById("downloadBtn").addEventListener("click", async () => {
     const keyword = document.getElementById("label").value.trim();
     const folderPath = document.getElementById("folder").value.trim();
+    const onlyNew = document.getElementById("onlyNew").checked;
 
-    if (!keyword) {
-        alert("Enter a Gmail label or search keyword first.");
+    if (!keyword && !onlyNew) {
+        alert("Enter a Gmail label/keyword, or check Only new/unread emails.");
         return;
     }
 
     downloadBtn.disabled = true;
-    setStatus(`Starting Gmail search for "${keyword}"...`);
+    setStatus(`Starting Gmail search for ${keyword ? `"${keyword}"` : "new/unread emails"}...`);
 
     try {
         const [tab] = await chrome.tabs.query({
@@ -33,14 +34,15 @@ document.getElementById("downloadBtn").addEventListener("click", async () => {
             type: "DOWNLOAD_GMAIL_ATTACHMENTS",
             tabId: tab.id,
             keyword,
-            folderPath
+            folderPath,
+            onlyNew
         });
 
         if (!response?.ok) {
             throw new Error(response?.error || "The background job failed.");
         }
 
-        setStatus(`Done. Started ${response.result.downloaded} download(s) from ${response.result.rows} email(s).`);
+        setStatus("Started. Keep the Gmail tab open; the extension badge will show RUN, ERR, or the download count.");
     } catch (error) {
         console.error(error);
         alert(error?.message || "Unable to start the attachment download job.");
