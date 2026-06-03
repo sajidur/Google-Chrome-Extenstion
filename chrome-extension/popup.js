@@ -7,16 +7,18 @@ function setStatus(message) {
 
 document.getElementById("downloadBtn").addEventListener("click", async () => {
     const keyword = document.getElementById("label").value.trim();
+    const searchType = document.getElementById("searchType").value;
     const folderPath = document.getElementById("folder").value.trim();
     const onlyNew = document.getElementById("onlyNew").checked;
 
     if (!keyword && !onlyNew) {
-        alert("Enter a Gmail label/keyword, or check Only new/unread emails.");
+        alert("Enter search text, or check Only new/unread emails.");
         return;
     }
 
     downloadBtn.disabled = true;
-    setStatus(`Starting Gmail search for ${keyword ? `"${keyword}"` : "new/unread emails"}...`);
+    const searchLabel = keyword ? `${searchType} "${keyword}"` : "new/unread emails";
+    setStatus(`Starting Gmail search for ${searchLabel}...`);
 
     try {
         const [tab] = await chrome.tabs.query({
@@ -34,6 +36,7 @@ document.getElementById("downloadBtn").addEventListener("click", async () => {
             type: "DOWNLOAD_GMAIL_ATTACHMENTS",
             tabId: tab.id,
             keyword,
+            searchType,
             folderPath,
             onlyNew
         });

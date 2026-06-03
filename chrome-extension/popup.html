@@ -4,9 +4,15 @@
 
 <h3>Download Gmail Attachments</h3>
 
-<label for="label">Gmail label / keyword:</label><br>
+<label for="searchType">Search by:</label><br>
+<select id="searchType" style="width:258px; margin-bottom:12px;">
+    <option value="keyword">Keyword</option>
+    <option value="label">Label</option>
+</select>
+
+<label for="label">Search text:</label><br>
 <input id="label"
-       placeholder="front-end-dev"
+       placeholder="invoice"
        style="width:250px; margin-bottom:12px;" />
 
 <label for="folder">Save to folder under Downloads:</label><br>

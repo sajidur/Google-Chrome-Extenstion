@@ -39,13 +39,13 @@ chrome.runtime.onMessage.addListener((message, sender, sendResponse) => {
     return false;
 });
 
-async function startGmailJob({ tabId, keyword, folderPath, onlyNew }) {
+async function startGmailJob({ tabId, keyword, searchType = "keyword", folderPath, onlyNew }) {
     const tab = await chrome.tabs.get(tabId);
     if (!isGmailUrl(tab.url)) {
         throw new Error("Open Gmail in the active tab, then try again.");
     }
 
-    const searchUrl = buildGmailSearchUrl(keyword, onlyNew);
+    const searchUrl = buildGmailSearchUrl(keyword, searchType, onlyNew);
     await goToUrl(tabId, searchUrl, 4000);
 
     await chrome.scripting.executeScript({
@@ -56,6 +56,7 @@ async function startGmailJob({ tabId, keyword, folderPath, onlyNew }) {
     await chrome.tabs.sendMessage(tabId, {
         type: "START_GMAIL_ATTACHMENT_JOB",
         keyword,
+        searchType,
         onlyNew,
         folderPath: sanitizeFolder(folderPath),
         searchUrl
@@ -73,11 +74,15 @@ function isGmailUrl(url) {
     }
 }
 
-function buildGmailSearchUrl(keyword, onlyNew) {
+function buildGmailSearchUrl(keyword, searchType, onlyNew) {
     const parts = [];
 
     if (keyword) {
-        parts.push(`label:"${keyword}"`);
+        if (searchType === "label") {
+            parts.push(`label:"${keyword}"`);
+        } else {
+            parts.push(keyword);
+        }
     }
 
     if (onlyNew) {
